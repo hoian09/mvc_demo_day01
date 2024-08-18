@@ -14,6 +14,7 @@
         <td>Last Name (*) </td>
         <td><mvc:input path = "lastname" required = "true" placeholder = "LastName"/></td>
     </tr>
+
     <tr>
         <td>Password  (*) </td>
         <td><mvc:password path = "password" required = "true" placeholder = "Password"/></td>

@@ -7,6 +7,6 @@
 <title>Index</title>
 </head>
 <body>
-	<h3>Hello MVC</h3>
+	Spring WedMVC Sample
 </body>
 </html>

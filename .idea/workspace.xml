@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5483a187-440d-4607-ade1-5799835e6f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/hellocontroller/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/formregistration/userForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/formregistration/userResult.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="5483a187-440d-4607-ade1-5799835e6f0c" name="Changes" comment="demo_day1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/formregistration/userForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/formregistration/userForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/formregistration/userResult.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/formregistration/userResult.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hoian09"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hoian09&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LoanNguyenT5/mvc_demo_day1.git",
-    "accountId": "ff71962d-5a2e-4d8f-aedf-2713dcbc741e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LoanNguyenT5/mvc_demo_day1.git&quot;,
+    &quot;accountId&quot;: &quot;ff71962d-5a2e-4d8f-aedf-2713dcbc741e&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" root0="SKIP_INSPECTION" />
@@ -61,27 +56,27 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kjtBbZMPhahXLbkhlRPZDDh9or" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.main.executor": "Run",
-    "Maven.mvc_hello [clean].executor": "Run",
-    "Maven.mvc_hello [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Smart Tomcat.Tomcat9.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/demo_m07/mvc_demo_day1",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mvc_hello [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mvc_hello [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Tomcat9.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/demo_m07/mvc_demo_day1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\demo_m07\mvc_demo_day1\src\main\webapp\WEB-INF\views\jsp" />
@@ -111,9 +106,6 @@
       <option name="catalinaBase" value="C:\Users\Admin\.SmartTomcat\mvc_demo_day1\mvc_hello" />
       <option name="contextPath" value="/" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
-      <option name="envOptions">
-        <map />
-      </option>
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
         <TomcatInfo>
@@ -147,6 +139,28 @@
       <option name="presentableId" value="Default" />
       <updated>1723808678717</updated>
     </task>
+    <task id="LOCAL-00001" summary="demo_day1">
+      <option name="closed" value="true" />
+      <created>1723977859855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723977859855</updated>
+    </task>
+    <task id="LOCAL-00002" summary="demo_day1">
+      <option name="closed" value="true" />
+      <created>1723977952200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723977952200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clean code" />
+    <MESSAGE value="demo_day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo_day1" />
   </component>
 </project>
